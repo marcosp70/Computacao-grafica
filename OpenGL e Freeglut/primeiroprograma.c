@@ -4,6 +4,7 @@
 // 
 // Código que redimensiona a tela, identifica o mouse e seu click e
 // lê a tecla digitada
+//
 
 #include <GL/glew.h>     
 #include <GL/freeglut.h>  
